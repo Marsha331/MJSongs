@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MJSongs</string>
+    <string name="no_songs">\"No songs found.\"</string>
+    <string name="artworkUrl">Shows Artwork for Album</string>
+</resources>
